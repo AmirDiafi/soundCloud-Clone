@@ -1,0 +1,58 @@
+[
+    {
+        "value": 0,
+        "id": "000",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-01.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "001",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-02.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "002",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-03.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "003",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-04.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "004",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-05.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "005",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-06.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    },
+    {
+        "value": 0,
+        "id": "006",
+        "title": "T-Shirt",
+        "size": "x xl xxl m",
+        "image": "products-07.jpg",
+        "desc": "this is a nice t-shirt for summer"
+    }
+]

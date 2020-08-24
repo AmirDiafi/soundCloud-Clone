@@ -1,0 +1,138 @@
+h2.no-products {
+  text-align: center
+}
+
+.products-length {
+  padding: 20px 10px;
+  background: #333;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto 50px;
+  position: relative
+}
+
+.card {
+  text-align: center;
+  width:60%;
+  border: 1px solid #d4d4d4;
+  border-radius: 5px;
+  margin: 25px auto;
+  padding: 20px
+}
+
+.card .about {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+  border-radius: 5px;
+  border: 1px solid #d4d4d4
+}
+
+.card .about .image,
+.card .about .info {
+  width: 50%;
+  height: 50%;
+  padding: 10px
+}
+
+.card .about .info {
+  margin-left: 25px;
+}
+
+.card .about .info h3 {
+  border-bottom: 1px solid orange;
+  width: 120px;
+  margin: 10px auto;
+  padding-bottom: 5px;
+}
+
+.card .about .info p span {
+  font-weight: bold
+}
+
+.card .about .image img {
+  width:100%;
+  height:100%;
+  padding: 5px;
+  border-radius: 5px;
+  background: orange
+}
+
+.counter {
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+  border-radius: 5px;
+  border: 1px solid #d4d4d4
+}
+
+.counter .count-btn {
+  border: 1px solid orangered;
+  background: orangered;
+  color :#FFF;
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline-color: orange;
+}
+
+.counter span.count {
+  margin: 0 10px;
+  border: 2px solid orange;
+  width: 100px;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: all .3s linear;
+}
+
+.counter span.zero {
+  border-color: #d81313;
+}
+
+.counter button.delete,
+.counter button.reset,
+.reset-btn {
+  border-radius: 5px;
+  color: #FFF;
+  position: absolute;
+  right: 10px;
+  top:50%;
+  transform: translateY(-50%);
+  width:80px;
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all .3s linear;
+}
+
+.counter button.delete {
+  outline-color: orange;
+  border: 1px solid orange;
+  background: #d81313;
+}
+
+.reset-btn,
+.reset{
+  background: #0081e8;
+  border-color: #0081e8;
+  outline-color: #1c99ff;
+}
+
+.reset {
+  left: 10px;
+}
+
+button:disabled{
+  opacity: .5 ;
+  cursor: not-allowed !important
+}
+
+
