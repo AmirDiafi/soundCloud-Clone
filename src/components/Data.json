@@ -1,58 +1,56 @@
 [
     {
-        "value": 0,
-        "id": "000",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-01.jpg",
-        "desc": "this is a nice t-shirt for summer"
-    },
-    {
-        "value": 0,
         "id": "001",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-02.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/arabian-night.jpeg",
+        "source": "melodyloops-preview-arabian-night.mp3",
+        "name": "melodyloops-preview-arabian-night"
     },
     {
-        "value": 0,
         "id": "002",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-03.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/game.jpeg",
+        "source": "melodyloops-preview-children-game.mp3",
+        "name": "melodyloops-preview-children-game"
     },
     {
-        "value": 0,
         "id": "003",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-04.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/comedy.jpeg",
+        "source": "melodyloops-preview-comedy-of-mistakes.mp3",
+        "name": "melodyloops-preview-comedy-of-mistakes"
     },
     {
-        "value": 0,
         "id": "004",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-05.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/detective.jpeg",
+        "source": "melodyloops-preview-detective-mind.mp3",
+        "name": "melodyloops-preview-detective-mind"
     },
     {
-        "value": 0,
         "id": "005",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-06.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/happy-ramadan.jpeg",
+        "source": "melodyloops-preview-happy-ramadan.mp3",
+        "name": "melodyloops-preview-happy-ramadan"
     },
     {
-        "value": 0,
         "id": "006",
-        "title": "T-Shirt",
-        "size": "x xl xxl m",
-        "image": "products-07.jpg",
-        "desc": "this is a nice t-shirt for summer"
+        "background": "media/images/samurai-1.jpeg",
+        "source": "melodyloops-preview-modern-samurai.mp3",
+        "name": "melodyloops-preview-modern-samurai"
+    },
+    {
+        "id": "007",
+        "background": "media/images/samurai-2.jpeg",
+        "source": "melodyloops-preview-modern-samurai-2.mp3",
+        "name": "melodyloops-preview-modern-samurai-2"
+    },
+    {
+        "id": "008",
+        "background": "media/images/stars.jpeg",
+        "source": "melodyloops-preview-over-the-stars.mp3",
+        "name": "melodyloops-preview-over-the-stars"
+    },
+    {
+        "id": "009",
+        "background": "media/images/summer.jpeg",
+        "source": "melodyloops-preview-tropical-summer.mp3",
+        "name": "melodyloops-preview-tropical-summer"
     }
 ]

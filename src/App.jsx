@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbar from './components/Navbar'
+import AudioWave from './components/AudioWave'
 
 class App extends React.Component {
     render() {
         return (
             <React.Fragment>
-                <Navbar />
+                <AudioWave />
             </React.Fragment>
         )
     }
